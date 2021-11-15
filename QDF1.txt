@@ -6,4 +6,4 @@ Type the statements below into your Python interpreter. For each statement, copy
 >>> print(01)
 >>> 1/(2/3) 
 
-When you reply to your peers’ submissions, compare their results with yours.
+When you reply to your peers submissions, compare their results with yours.
