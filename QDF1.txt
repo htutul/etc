@@ -1,0 +1,9 @@
+Type the statements below into your Python interpreter. For each statement, copy the output into your Discussion Assignment and explain the output. Compare it with any similar examples in the textbook, and describe what it means about your version of Python. 
+
+>>> print 'Hello, World!'
+>>> 1/2
+>>> type(1/2)
+>>> print(01)
+>>> 1/(2/3) 
+
+When you reply to your peers’ submissions, compare their results with yours.
